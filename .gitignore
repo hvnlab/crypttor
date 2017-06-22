@@ -48,7 +48,17 @@ Temporary Items
 
 
 # =========================
-# IDE folder
+# IDE Project Folders
 # =========================
 .idea
+.project
 nbproject
+
+# =========================
+# Other files / Folders
+# =========================
+/build
+/vendor
+/phpunit.xml
+/humbug.json
+/tmp
